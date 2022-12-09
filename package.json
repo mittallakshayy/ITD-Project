@@ -1,0 +1,21 @@
+{
+  "name": "itd",
+  "version": "1.0.0",
+  "description": "This project is made for itd class extra credits ",
+  "main": "server.js",
+  "scripts": {
+    "test": "npm test",
+    "dev": "nodemon server.js"
+  },
+  "author": "Lakshay Mittal",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "mongoose": "^6.7.5"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
